@@ -1188,7 +1188,6 @@ searchSites[1049] = ("Chiva Culiona", "Chiva Culiona", "http://www.pornditos.com
 searchSites[1050] = ("Cuchi Mami", "Cuchi Mami", "http://www.pornditos.com", "http://www.pornditos.com/t1/videos/0_")
 searchSites[1051] = ("Bruce and Morgan", "Bruce and Morgan", "https://www.bruceandmorgan.net/", "https://www.bruceandmorgan.net/sapi/")
 
-
 def getSearchBaseURL(siteID):
     return searchSites[siteID][2]
 
