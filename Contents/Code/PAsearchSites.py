@@ -131,8 +131,10 @@ import siteWoodmanCastingX
 import networkScoreGroup
 import siteTwoTGirls
 import siteSicflics
+import networkModelCentro
+import siteCulioneros
 
-searchSites = [None] * 1024
+searchSites = [None] * 1052
 
 searchSites[0] = ("BlackedRaw", "BlackedRaw", "https://www.blackedraw.com", "https://www.blackedraw.com/api")
 searchSites[1] = ("Blacked", "Blacked", "https://www.blacked.com", "https://www.blacked.com/api")
@@ -1157,6 +1159,35 @@ searchSites[1020] = ("Leg Sex", "Leg Sex", "https://www.legsex.com", "https://ww
 searchSites[1021] = ("Scoreland", "Scoreland", "https://www.scoreland.com", "https://www.scoreland.com/big-boob-videos/")
 searchSites[1022] = ("TwoTGirls", "TwoTGirls", "https://twotgirls.com/", "https://twotgirls.com/videos?query=")
 searchSites[1023] = ("Sicflics", "Sicflics", "https://www2.sicflics.com/", "https://www.sicflics.com/search/")
+searchSites[1024] = ("AlettaOceanLive", "AlettaOceanLive", "https://www.alettaoceanlive.com/", "https://www.alettaoceanlive.com/sapi/")
+searchSites[1025] = ("FallInLovia", "FallInLovia", "https://www.fallinlovia.com/", "https://www.fallinlovia.com/sapi/")
+searchSites[1026] = ("RomiRain", "RomiRain", "https://www.romirain.com/", "https://www.romirain.com/sapi/")
+searchSites[1027] = ("JerkOffWithMe", "JerkOffWithMe", "https://www.jerkoffwithme.com/", "https://www.jerkoffwithme.com/sapi/")
+searchSites[1028] = ("GetYourKneesDirty", "GetYourKneesDirty", "https://www.getyourkneesdirty.com/", "https://www.getyourkneesdirty.com/sapi/")
+searchSites[1029] = ("Nude Beauties", "Nude Beauties", "https://nudebeauties.eu/", "https://nudebeauties.eu/sapi/")
+searchSites[1030] = ("Dani Daniels", "Dani Daniels", "https://danidaniels.com/", "https://danidaniels.com/sapi/")
+searchSites[1031] = ("OfficialChloeToy", "OfficialChloeToy", "https://officialchloetoy.com/", "https://officialchloetoy.com/sapi/")
+searchSites[1032] = ("YummyCouple", "YummyCouple", "https://friends.yummycouple.com/", "https://friends.yummycouple.com/sapi/")
+searchSites[1033] = ("Katya Clover", "Katya Clover", "https://www.katya-clover.com/", "https://www.katya-clover.com/sapi/")
+searchSites[1034] = ("DeNudeArt", "DeNudeArt", "https://denudeart.com/", "https://denudeart.com/sapi/")
+searchSites[1035] = ("Lisey Sweet", "Lisey Sweet", "https://theliseysweet.com/", "https://theliseysweet.com/sapi/")
+searchSites[1036] = ("MyLifeInMiami", "MyLifeInMiami", "https://mylifeinmiami.com/", "https://mylifeinmiami.com/sapi/")
+searchSites[1037] = ("GinaGerson", "GinaGerson", "https://www.ginagerson.xxx/", "https://www.ginagerson.xxx/sapi/")
+searchSites[1038] = ("ValeNappi", "ValeNappi", "https://www.valenappi.com/", "https://www.valenappi.com/sapi/")
+searchSites[1039] = ("VinaSkyXXX", "VinaSkyXXX", "https://www.vinaskyxxx.com/", "https://www.vinaskyxxx.com/sapi/")
+searchSites[1040] = ("Culioneros", "Culioneros", "http://www.pornditos.com", "http://www.pornditos.com/t1/videos/0_")
+searchSites[1041] = ("Sexo en Public", "Sexo en Public", "http://www.pornditos.com", "http://www.pornditos.com/t1/videos/0_")
+searchSites[1042] = ("Mi Primer Porno", "Mi Primer Porno", "http://www.pornditos.com", "http://www.pornditos.com/t1/videos/0_")
+searchSites[1043] = ("Por el Chiquito", "Por el Chiquito", "http://www.pornditos.com", "http://www.pornditos.com/t1/videos/0_")
+searchSites[1044] = ("Chicas de Porno", "Chicas de Porno", "http://www.pornditos.com", "http://www.pornditos.com/t1/videos/0_")
+searchSites[1045] = ("Tetangas Espanolas", "Tetangas Espanolas", "http://www.pornditos.com", "http://www.pornditos.com/t1/videos/0_")
+searchSites[1046] = ("Costenas Locas", "Costenas Locas", "http://www.pornditos.com", "http://www.pornditos.com/t1/videos/0_")
+searchSites[1047] = ("Naglgas Grandes", "Naglgas Grandes", "http://www.pornditos.com", "http://www.pornditos.com/t1/videos/0_")
+searchSites[1048] = ("Tetonas Locas", "Tetonas Locas", "http://www.pornditos.com", "http://www.pornditos.com/t1/videos/0_")
+searchSites[1049] = ("Chiva Culiona", "Chiva Culiona", "http://www.pornditos.com", "http://www.pornditos.com/t1/videos/0_")
+searchSites[1050] = ("Cuchi Mami", "Cuchi Mami", "http://www.pornditos.com", "http://www.pornditos.com/t1/videos/0_")
+searchSites[1051] = ("Bruce and Morgan", "Bruce and Morgan", "https://www.bruceandmorgan.net/", "https://www.bruceandmorgan.net/sapi/")
+
 
 def getSearchBaseURL(siteID):
     return searchSites[siteID][2]
@@ -1339,6 +1370,7 @@ def getSearchSettings(mediaTitle):
         ('^il ', 'ImmoralLive '),
         ('^itc ', 'InTheCrack '),
         ('^jb ', 'JavBus '),
+        ('^jowm', 'JerkOffWithMe'),
         ('^kha ', 'KarupsHA '),
         ('^kow ', 'KarupsOW '),
         ('^kpc ', 'KarupsPC '),
@@ -1398,6 +1430,7 @@ def getSearchSettings(mediaTitle):
         ('^pav ', 'PixAndVideo '),
         ('^pba ', 'PublicAgent '),
         ('^pc ', 'PrincessCum '),
+        ('^pornditos', 'Culioneros '),
         ('^pdmcl ', 'ChicasLoca '),
         ('^pf ', 'PornFidelity '),
         ('^phd ', 'PassionHD '),
