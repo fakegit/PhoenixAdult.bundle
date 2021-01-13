@@ -194,7 +194,7 @@ manualMatch = {
         'curID': '/videos/intimate',
         'name': 'Intimate [X-Art]',
     },
-    'In Bed': {
+    'in Bed': {
         'curID': '/videos/in_bed',
         'name': 'In Bed [X-Art]',
     },
@@ -250,7 +250,7 @@ manualMatch = {
         'curID': '/videos/group_sex',
         'name': 'Group Sex [X-Art]',
     },
-    'A Cloudy Hot Day Milas First Lesbian Experience': {
+    'a Cloudy Hot Day Milas First Lesbian Experience': {
         'curID': '/videos/a_cloudy_hot_day_(mila\'s_first_lesbian_experience)',
         'name': 'A Cloudy Hot Day (Mila\'s First Lesbian Experience) [X-Art]',
     },
@@ -310,11 +310,11 @@ manualMatch = {
         'curID': '/videos/domination__part_1',
         'name': 'Domination - Part 1 [X-Art]',
     },
-    'The Rich Girl Part One': {
+    'the Rich Girl Part One': {
         'curID': '/videos/the_rich_girl_-_part_one',
         'name': 'The Rich Girl - Part One [X-Art]',
     },
-    'The Rich Girl Part Two': {
+    'the Rich Girl Part Two': {
         'curID': '/videos/the_rich_girl_-_part_two',
         'name': 'The Rich Girl - Part Two [X-Art]',
     },
